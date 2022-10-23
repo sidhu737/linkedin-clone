@@ -20,7 +20,7 @@ function Sidebar() {
     <div className="sidebar">
       <div className="sidebar__top">
         <img
-          src="https://images.pexels.com/photos/4737484/pexels-photo-4737484.jpeg?auto=compress&cs=tinysrgb&w=600"
+          src="https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2014/05/IMG_7998.jpg?resize=600%2C307&ssl=1"
           alt=""
         />
         <Avatar src={user.photoUrl} className="sidebar__avatar">
